@@ -1,2 +1,2 @@
 # portmon
-Network device port monitoring in realtime
+Мониторинг трафика на порту в реальном времени
