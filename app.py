@@ -7,8 +7,8 @@ from copy import copy
 
 device = Device()
 device.device_name = "Cisco C 3750 G"
-device.device_address = "192.168.10.42"
-device.snmp_community = "iMAXPublic"
+device.device_address = "192.168.35.28"
+device.snmp_community = "public"
 device.snmp_version = "2"
 device.connect_device()
 curr = [0, 0]
